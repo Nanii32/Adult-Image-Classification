@@ -93,10 +93,6 @@ def load_model():
 - **Accuracy**: Achieved **94% accuracy** on the validation dataset.
 - **Loss**: Training and validation loss curves show good model convergence with minimal overfitting.
 
-## Screenshots
-![](assets/result.png)
-
-
 ## Future Scope
 - Extend the model for multi-class classification (e.g., different categories of adult content).
 - Implement real-time image classification with a live camera feed.
