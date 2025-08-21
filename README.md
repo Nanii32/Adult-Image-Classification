@@ -27,7 +27,7 @@ Alternatively, you can request access to the dataset by contacting the author of
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mohan120105/adult-image-classification.git
+   git clone https://github.com/Nanii32/Adult-Image-Classification
    cd adult-image-classification
    ```
 
